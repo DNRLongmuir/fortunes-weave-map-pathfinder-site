@@ -111,7 +111,7 @@
         queue.push({node: step.ends_at, cost});
       }
     }
-    if (!parents.has(target)) throw new Error('No route exists using the currently available movement rules.');
+    if (!parents.has(target)) throw new Error(`No route exists from ${start} to ${target} using the currently available movement rules.`);
     const result = [];
     for (let cursor = target; cursor !== start;) {
       const parent = parents.get(cursor);
