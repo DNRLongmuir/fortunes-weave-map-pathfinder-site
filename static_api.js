@@ -2,7 +2,7 @@
   'use strict';
 
   const nativeFetch = window.fetch.bind(window);
-  const runtimePromise = nativeFetch('./data/runtime.json?v=6404bc7').then(response => {
+  const runtimePromise = nativeFetch('./data/runtime.json?v=80ae8dc').then(response => {
     if (!response.ok) throw new Error('Static planner data could not be loaded.');
     return response.json();
   });
