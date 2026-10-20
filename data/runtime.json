@@ -12,7 +12,8 @@
         "y": 341.0,
         "width": 77.0,
         "height": 62.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "enceadus_bridge",
@@ -24,7 +25,8 @@
         "y": 335.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "alcineus_span",
@@ -36,7 +38,8 @@
         "y": 335.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_001",
@@ -48,7 +51,8 @@
         "y": 319.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_002",
@@ -60,7 +64,8 @@
         "y": 261.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_001",
@@ -72,7 +77,8 @@
         "y": 237.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_002",
@@ -84,7 +90,8 @@
         "y": 219.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sunlit_pass",
@@ -96,7 +103,8 @@
         "y": 195.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_003",
@@ -108,7 +116,8 @@
         "y": 255.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_003",
@@ -120,7 +129,8 @@
         "y": 319.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_004",
@@ -132,7 +142,8 @@
         "y": 380.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "east_amalthea_posthouse",
@@ -144,7 +155,8 @@
         "y": 370.0,
         "width": 24.0,
         "height": 24.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "west_amalthea_posthouse",
@@ -156,7 +168,8 @@
         "y": 310.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_005",
@@ -168,7 +181,8 @@
         "y": 319.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_006",
@@ -180,7 +194,8 @@
         "y": 335.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "elissa_pass",
@@ -192,7 +207,8 @@
         "y": 373.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_004",
@@ -204,7 +220,8 @@
         "y": 464.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_007",
@@ -216,7 +233,8 @@
         "y": 490.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_008",
@@ -228,7 +246,8 @@
         "y": 506.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_005",
@@ -240,7 +259,8 @@
         "y": 515.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_009",
@@ -252,7 +272,8 @@
         "y": 516.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_006",
@@ -264,7 +285,8 @@
         "y": 516.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_010",
@@ -276,7 +298,8 @@
         "y": 498.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "forsaken_lakehouse",
@@ -288,7 +311,8 @@
         "y": 444.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "rolling_breeze_hill",
@@ -300,7 +324,8 @@
         "y": 444.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_007",
@@ -312,7 +337,8 @@
         "y": 255.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_011",
@@ -324,7 +350,8 @@
         "y": 219.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_012",
@@ -336,7 +363,8 @@
         "y": 246.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "napier_woods",
@@ -348,7 +376,8 @@
         "y": 195.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "evermist_plain",
@@ -360,7 +389,8 @@
         "y": 177.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "hugo_stronghold",
@@ -372,7 +402,8 @@
         "y": 160.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_008",
@@ -384,7 +415,8 @@
         "y": 118.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "yaaman",
@@ -396,7 +428,8 @@
         "y": 246.5,
         "width": 39.5,
         "height": 42.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_013",
@@ -408,7 +441,8 @@
         "y": 246.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_014",
@@ -420,7 +454,8 @@
         "y": 246.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "dragdon_pass",
@@ -432,7 +467,8 @@
         "y": 237.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_015",
@@ -444,7 +480,8 @@
         "y": 55.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_016",
@@ -456,7 +493,8 @@
         "y": 118.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_017",
@@ -468,7 +506,8 @@
         "y": -34.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sonai_pass",
@@ -480,7 +519,8 @@
         "y": 100.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_018",
@@ -492,7 +532,8 @@
         "y": 92.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "faro_forest",
@@ -504,7 +545,8 @@
         "y": 46.25,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_019",
@@ -516,7 +558,8 @@
         "y": 21.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_020",
@@ -528,7 +571,8 @@
         "y": -58.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "bugs_burrow",
@@ -540,7 +584,8 @@
         "y": -134.75,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_021",
@@ -552,7 +597,8 @@
         "y": -10.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_022",
@@ -564,7 +610,8 @@
         "y": -125.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "krove_ditch",
@@ -576,7 +623,8 @@
         "y": -119.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "alma_greatplains",
@@ -588,7 +636,8 @@
         "y": -119.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_023",
@@ -600,7 +649,8 @@
         "y": -116.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_024",
@@ -612,7 +662,8 @@
         "y": -110.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_025",
@@ -624,7 +675,8 @@
         "y": -186.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_026",
@@ -636,7 +688,8 @@
         "y": -269.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "utuna_pass",
@@ -648,7 +701,8 @@
         "y": -329.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_009",
@@ -660,7 +714,8 @@
         "y": -349.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_027",
@@ -672,7 +727,8 @@
         "y": -385.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_028",
@@ -684,7 +740,8 @@
         "y": -398.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_029",
@@ -696,7 +753,8 @@
         "y": -398.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fina_reef",
@@ -708,7 +766,8 @@
         "y": -416.75,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fina",
@@ -720,7 +779,8 @@
         "y": -416.75,
         "width": 62.0,
         "height": 55.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_030",
@@ -732,7 +792,8 @@
         "y": -416.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "raptor_s_throat",
@@ -744,7 +805,8 @@
         "y": -470.25,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_031",
@@ -756,7 +818,8 @@
         "y": -512.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_032",
@@ -768,7 +831,8 @@
         "y": -562.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cape_damasen",
@@ -780,7 +844,8 @@
         "y": -637.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "dione_fort",
@@ -792,7 +857,8 @@
         "y": -416.75,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_033",
@@ -804,7 +870,8 @@
         "y": -482.875,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "whispering_rock",
@@ -816,7 +883,8 @@
         "y": -548.59375,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_010",
@@ -828,7 +896,8 @@
         "y": -349.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "eochaid_posthouse",
@@ -840,7 +909,8 @@
         "y": -440.78125,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_034",
@@ -852,7 +922,8 @@
         "y": -349.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_035",
@@ -864,7 +935,8 @@
         "y": -349.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "zethus_falls",
@@ -876,7 +948,8 @@
         "y": -358.25,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_036",
@@ -888,7 +961,8 @@
         "y": -385.25,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_037",
@@ -900,7 +974,8 @@
         "y": -407.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "pegasi_s_peak",
@@ -912,7 +987,8 @@
         "y": -440.78125,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cave_behind_the_falls",
@@ -924,7 +1000,8 @@
         "y": -278.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "port_of_pandora",
@@ -936,7 +1013,8 @@
         "y": -364.25,
         "width": 39.5,
         "height": 42.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_038",
@@ -948,7 +1026,8 @@
         "y": -242.3125,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_039",
@@ -960,7 +1039,8 @@
         "y": -150.375,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "brigadier_s_pass",
@@ -972,7 +1052,8 @@
         "y": -43.75,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fortuna_s_temple",
@@ -984,7 +1065,8 @@
         "y": -119.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_040",
@@ -996,7 +1078,8 @@
         "y": 21.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "veletta_range_stronghold",
@@ -1008,7 +1091,8 @@
         "y": 63.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_041",
@@ -1020,7 +1104,8 @@
         "y": 142.4375,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "riberia",
@@ -1032,7 +1117,8 @@
         "y": 184.4375,
         "width": 50.3125,
         "height": 53.75,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_042",
@@ -1044,7 +1130,8 @@
         "y": 264.75,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_043",
@@ -1056,7 +1143,8 @@
         "y": 267.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_044",
@@ -1068,7 +1156,8 @@
         "y": 288.0625,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_045",
@@ -1080,7 +1169,8 @@
         "y": 319.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "aeobos_plain",
@@ -1092,7 +1182,8 @@
         "y": 317.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "galen_fort_ruins",
@@ -1104,7 +1195,8 @@
         "y": 317.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_046",
@@ -1116,7 +1208,8 @@
         "y": 382.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_047",
@@ -1128,7 +1221,8 @@
         "y": 391.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_048",
@@ -1140,7 +1234,8 @@
         "y": 385.4183172324313,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_011",
@@ -1152,7 +1247,8 @@
         "y": 400.192655913512,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_049",
@@ -1164,7 +1260,8 @@
         "y": 479.15130940540354,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sunset_fortress",
@@ -1176,7 +1273,8 @@
         "y": 509.33952700540505,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "carmenta_stronghold",
@@ -1188,7 +1286,8 @@
         "y": 391.192655913512,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "carmenta_posthouse",
@@ -1200,7 +1299,8 @@
         "y": 340.192655913512,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kavala_stronghold",
@@ -1212,7 +1312,8 @@
         "y": 522.226356843244,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_050",
@@ -1224,7 +1325,8 @@
         "y": 591.0119291675684,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_051",
@@ -1236,7 +1338,8 @@
         "y": 525.2859366054071,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_052",
@@ -1248,7 +1351,8 @@
         "y": 540.5003808000025,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_012",
@@ -1260,7 +1364,8 @@
         "y": 581.0540042378412,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_053",
@@ -1272,7 +1377,8 @@
         "y": 640.4765885405448,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "regia",
@@ -1284,7 +1390,8 @@
         "y": 488.5,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "magnus_plateau",
@@ -1296,7 +1403,8 @@
         "y": 656.7554594594594,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_054",
@@ -1308,7 +1416,8 @@
         "y": 581.0540042378412,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_055",
@@ -1320,7 +1429,8 @@
         "y": 730.1970551351435,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_013",
@@ -1332,7 +1442,8 @@
         "y": 765.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "daybreak_plains",
@@ -1344,7 +1455,8 @@
         "y": 742.1970551351435,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_056",
@@ -1356,7 +1468,8 @@
         "y": 779.7614323027035,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_014",
@@ -1368,7 +1481,8 @@
         "y": 787.4930829837854,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_057",
@@ -1380,7 +1494,8 @@
         "y": 767.8021658810835,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_058",
@@ -1392,7 +1507,8 @@
         "y": 714.3256764540573,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "feronia_posthouse",
@@ -1404,7 +1520,8 @@
         "y": 700.8271174918927,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "solel_s_temple",
@@ -1416,7 +1533,8 @@
         "y": 727.4930829837854,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "farewell_stone",
@@ -1428,7 +1546,8 @@
         "y": 613.9225843027035,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "resurgence_stone",
@@ -1440,7 +1559,8 @@
         "y": 656.7554594594594,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "staying_stone",
@@ -1452,7 +1572,8 @@
         "y": 656.7554594594594,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "horizon_s_crossing",
@@ -1464,7 +1585,8 @@
         "y": 631.4765885405448,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_059",
@@ -1476,7 +1598,8 @@
         "y": 589.8435619459506,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_060",
@@ -1488,7 +1611,8 @@
         "y": 712.8730288432492,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_061",
@@ -1500,7 +1624,8 @@
         "y": 796.5689415783858,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "libertas_stronghold",
@@ -1512,7 +1637,8 @@
         "y": 509.339527005405,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_062",
@@ -1524,7 +1650,8 @@
         "y": 470.8379533837898,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_063",
@@ -1536,7 +1663,8 @@
         "y": 454.39786438919657,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_064",
@@ -1548,7 +1676,8 @@
         "y": 444.9935133405493,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_065",
@@ -1560,7 +1689,8 @@
         "y": 403.75593937298316,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_015",
@@ -1572,7 +1702,8 @@
         "y": 385.5898412973089,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "orens",
@@ -1584,7 +1715,8 @@
         "y": 355.71913649729845,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_066",
@@ -1596,7 +1728,8 @@
         "y": 343.18036160002237,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_067",
@@ -1608,7 +1741,8 @@
         "y": 308.8180360648864,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_068",
@@ -1620,7 +1754,8 @@
         "y": 312.4437978811018,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_069",
@@ -1632,7 +1767,8 @@
         "y": 249.31972531893877,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_070",
@@ -1644,7 +1780,8 @@
         "y": 177.48155632434333,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_071",
@@ -1656,7 +1793,8 @@
         "y": 156.72677587028846,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_072",
@@ -1668,7 +1806,8 @@
         "y": 137.5494276324498,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "stoppered_shrine",
@@ -1680,7 +1819,8 @@
         "y": 258.83370283244034,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_073",
@@ -1692,7 +1832,8 @@
         "y": 277.85259857298377,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "valley_of_black_wings",
@@ -1704,7 +1845,8 @@
         "y": 300.2103262270264,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mount_aegina",
@@ -1716,7 +1858,8 @@
         "y": 202.77089971891752,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "peluza_cape",
@@ -1728,7 +1871,8 @@
         "y": 869.6749525621599,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "bran_plains",
@@ -1740,7 +1884,8 @@
         "y": 303.3364523243213,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "pyroxene_cave",
@@ -1752,7 +1897,8 @@
         "y": 149.11145349188803,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ship_aground",
@@ -1764,7 +1910,8 @@
         "y": 269.9039923891845,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_074",
@@ -1776,7 +1923,8 @@
         "y": 299.9039923891845,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "bau_caller_s_cape",
@@ -1788,7 +1936,8 @@
         "y": 83.14853292972504,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "urka_posthouse",
@@ -1800,7 +1949,8 @@
         "y": 455.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_075",
@@ -1812,7 +1962,8 @@
         "y": 708.8534784864883,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_076",
@@ -1824,7 +1975,8 @@
         "y": 809.2371180108094,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_077",
@@ -1836,7 +1988,8 @@
         "y": 899.6749525621599,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_078",
@@ -1848,7 +2001,8 @@
         "y": 948.3161582702761,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_079",
@@ -1860,7 +2014,8 @@
         "y": 823.6473452108067,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_080",
@@ -1872,7 +2027,8 @@
         "y": 839.1569470270215,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sunwatch_pass",
@@ -1884,7 +2040,8 @@
         "y": 721.1970551351435,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sunfall_path",
@@ -1896,7 +2053,8 @@
         "y": 869.6749525621599,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_081",
@@ -1908,7 +2066,8 @@
         "y": 939.7699788973034,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sunlit_garden",
@@ -1920,7 +2079,8 @@
         "y": 921.7699788973034,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_082",
@@ -1932,7 +2092,8 @@
         "y": 823.6473452108067,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "nowah_s_cave",
@@ -1944,7 +2105,8 @@
         "y": 921.7699788973034,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_083",
@@ -1956,7 +2118,8 @@
         "y": 869.6749525621599,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_016",
@@ -1968,7 +2131,8 @@
         "y": 954.1832813837941,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "callianeira_port",
@@ -1980,7 +2144,8 @@
         "y": 1034.4825494270249,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_084",
@@ -1992,7 +2157,8 @@
         "y": 765.2594700108259,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_085",
@@ -2004,7 +2170,8 @@
         "y": 779.7614323027035,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fort_hecatoncheires",
@@ -2016,7 +2183,8 @@
         "y": 800.2371180108094,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_086",
@@ -2028,7 +2196,8 @@
         "y": 640.4765885405448,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "valeri_gorge",
@@ -2040,7 +2209,8 @@
         "y": 589.6792605405369,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kothar_lake",
@@ -2052,7 +2222,8 @@
         "y": 652.4334028972924,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "necropolis_of_silence",
@@ -2064,7 +2235,8 @@
         "y": 656.6696762810748,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "goddess_s_gateway",
@@ -2076,7 +2248,8 @@
         "y": 553.6343777729702,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "rubess_forest",
@@ -2088,7 +2261,8 @@
         "y": 754.0428298378436,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ruins_of_megrez",
@@ -2100,7 +2274,8 @@
         "y": 856.0428298378436,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "dada_plains",
@@ -2112,7 +2287,8 @@
         "y": 778.4930829837854,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_087",
@@ -2124,7 +2300,8 @@
         "y": 674.8638149189117,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_088",
@@ -2136,7 +2313,8 @@
         "y": 658.5941319783698,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_089",
@@ -2148,7 +2326,8 @@
         "y": 610.5150514162063,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_090",
@@ -2160,7 +2339,8 @@
         "y": 814.0428298378436,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_091",
@@ -2172,7 +2352,8 @@
         "y": 856.0428298378436,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_017",
@@ -2184,7 +2365,8 @@
         "y": 843.8532544864726,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_092",
@@ -2196,7 +2378,8 @@
         "y": 519.6375097080928,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_093",
@@ -2208,7 +2391,8 @@
         "y": 135.81105969008718,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_094",
@@ -2220,7 +2404,8 @@
         "y": 106.74124586666085,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_018",
@@ -2232,7 +2417,8 @@
         "y": 88.74290793512637,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_019",
@@ -2244,7 +2430,8 @@
         "y": 52.39910179819526,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_095",
@@ -2256,7 +2443,8 @@
         "y": -288.11577873875336,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_096",
@@ -2268,7 +2456,8 @@
         "y": -208.42880812974732,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_097",
@@ -2280,7 +2469,8 @@
         "y": -111.62899860182239,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_098",
@@ -2292,7 +2482,8 @@
         "y": -58.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_099",
@@ -2304,7 +2495,8 @@
         "y": 151.66022910267628,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_100",
@@ -2316,7 +2508,8 @@
         "y": 204.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_020",
@@ -2328,7 +2521,8 @@
         "y": 97.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fort_galcar",
@@ -2340,7 +2534,8 @@
         "y": -16.037028580189826,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ludria_stronghold",
@@ -2352,7 +2547,8 @@
         "y": -16.037028580189826,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "collapsed_fort",
@@ -2364,7 +2560,8 @@
         "y": 43.39910179819526,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "santana_bridge",
@@ -2376,7 +2573,8 @@
         "y": 63.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "granda_fort_ruins",
@@ -2388,7 +2586,8 @@
         "y": 201.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "wodan_pass",
@@ -2400,7 +2599,8 @@
         "y": 52.39910179819526,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_101",
@@ -2412,7 +2612,8 @@
         "y": 488.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "gaura_grassland",
@@ -2424,7 +2625,8 @@
         "y": 410.0103522486321,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "niraga_mine",
@@ -2436,7 +2638,8 @@
         "y": 325.95370829909405,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_102",
@@ -2448,7 +2651,8 @@
         "y": 261.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kayen_stronghold",
@@ -2460,7 +2664,8 @@
         "y": 294.47787696214743,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_103",
@@ -2472,7 +2677,8 @@
         "y": 366.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "desert_entrance",
@@ -2484,7 +2690,8 @@
         "y": 237.5,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "xantha_stronghold",
@@ -2496,7 +2703,8 @@
         "y": 141.0,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_104",
@@ -2508,7 +2716,8 @@
         "y": 72.0,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "heretic_s_cave",
@@ -2520,7 +2729,8 @@
         "y": -31.12273018739245,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_105",
@@ -2532,7 +2742,8 @@
         "y": -74.05089498379186,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "bernard_pass",
@@ -2544,7 +2755,8 @@
         "y": -144.67004953874385,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_106",
@@ -2556,7 +2768,8 @@
         "y": -191.92944394235258,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_107",
@@ -2568,7 +2781,8 @@
         "y": -142.04624587388628,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_108",
@@ -2580,7 +2794,8 @@
         "y": -278.5793280216362,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fort_theed",
@@ -2592,7 +2807,8 @@
         "y": -151.04624587388628,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_109",
@@ -2604,7 +2820,8 @@
         "y": -235.25206142704144,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cohen_s_mausoleum",
@@ -2616,7 +2833,8 @@
         "y": -346.4350970918991,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ere_mountains",
@@ -2628,7 +2846,8 @@
         "y": -317.8133148072164,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_110",
@@ -2640,7 +2859,8 @@
         "y": -374.4039388180345,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_111",
@@ -2652,7 +2872,8 @@
         "y": -417.8830828036221,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_112",
@@ -2664,7 +2885,8 @@
         "y": -466.84249174777256,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kassie",
@@ -2676,7 +2898,8 @@
         "y": -466.84249174777256,
         "width": 50.3125,
         "height": 53.75,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_113",
@@ -2688,7 +2911,8 @@
         "y": -116.09249174777256,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "liza_hold",
@@ -2700,7 +2924,8 @@
         "y": -100.63328916037972,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_114",
@@ -2712,7 +2937,8 @@
         "y": 67.99255886123444,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_115",
@@ -2724,7 +2950,8 @@
         "y": 117.38105076753868,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_021",
@@ -2736,7 +2963,8 @@
         "y": 76.43036343059964,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_116",
@@ -2748,7 +2976,8 @@
         "y": 22.69410376933638,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_117",
@@ -2760,7 +2989,8 @@
         "y": -39.79199027030529,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sylvas_stronghold",
@@ -2772,7 +3002,8 @@
         "y": 74.02419673151985,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "velatori_valley",
@@ -2784,7 +3015,8 @@
         "y": 67.99255886123444,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_118",
@@ -2796,7 +3028,8 @@
         "y": 67.77915437834338,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "gorbea_stronghold_ruins",
@@ -2808,7 +3041,8 @@
         "y": 58.77915437834338,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_119",
@@ -2820,7 +3054,8 @@
         "y": 52.39910179819526,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_120",
@@ -2832,7 +3067,8 @@
         "y": 48.032644136898966,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_121",
@@ -2844,7 +3080,8 @@
         "y": 47.695126962122686,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_122",
@@ -2856,7 +3093,8 @@
         "y": 37.89930405761663,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_123",
@@ -2868,7 +3106,8 @@
         "y": 33.6213501260836,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_124",
@@ -2880,7 +3119,8 @@
         "y": 24.37913414049649,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "dubhe_ridge",
@@ -2892,7 +3132,8 @@
         "y": 17.066720014377893,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_125",
@@ -2904,7 +3145,8 @@
         "y": 26.066720014377893,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mintaka_rockway",
@@ -2916,7 +3158,8 @@
         "y": 18.754305888259296,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_022",
@@ -2928,7 +3171,8 @@
         "y": 22.9066148179719,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "pale_raven_s_perch",
@@ -2940,7 +3184,8 @@
         "y": 15.594200691853302,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "shrine_of_osiris",
@@ -2952,7 +3197,8 @@
         "y": 18.754305888259296,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_126",
@@ -2964,7 +3210,8 @@
         "y": 27.754305888259296,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "osiris",
@@ -2976,7 +3223,8 @@
         "y": -58.180726234236886,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_023",
@@ -2988,7 +3236,8 @@
         "y": -173.2479714450817,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_127",
@@ -3000,7 +3249,8 @@
         "y": -247.40613640364188,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_128",
@@ -3012,7 +3262,8 @@
         "y": -300.2069219027426,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_129",
@@ -3024,7 +3275,8 @@
         "y": -422.1681969153569,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_130",
@@ -3036,7 +3288,8 @@
         "y": -387.7664673874306,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "zeet_lake",
@@ -3048,7 +3301,8 @@
         "y": -287.7181898234601,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "merak_pass",
@@ -3060,7 +3314,8 @@
         "y": -379.35219824147975,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "unmanned_storehouse",
@@ -3072,7 +3327,8 @@
         "y": -38.34424860544539,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "corroios_fort_ruins",
@@ -3084,7 +3340,8 @@
         "y": -121.78122638919592,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_131",
@@ -3096,7 +3353,8 @@
         "y": -356.98982067031517,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_132",
@@ -3108,7 +3366,8 @@
         "y": -272.0526844396862,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_133",
@@ -3120,7 +3379,8 @@
         "y": -199.4014517766247,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_024",
@@ -3132,7 +3392,8 @@
         "y": -23.453065383833575,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_134",
@@ -3144,7 +3405,8 @@
         "y": -110.15921218023158,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "grand_aragon",
@@ -3156,7 +3418,8 @@
         "y": -187.15921218023158,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_025",
@@ -3168,7 +3431,8 @@
         "y": -159.16880027392693,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "coris_mine",
@@ -3180,7 +3444,8 @@
         "y": -321.14753145586417,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kalla_s_temple",
@@ -3192,7 +3457,8 @@
         "y": -217.42880812974738,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "aragona_posthouse",
@@ -3204,7 +3470,8 @@
         "y": -228.51781334775148,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "benyera_stronghold",
@@ -3216,7 +3483,8 @@
         "y": -151.57639829550703,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_026",
@@ -3228,7 +3496,8 @@
         "y": -135.2736895568117,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "lindrake_rock_belt",
@@ -3240,7 +3509,8 @@
         "y": -128.15921218023158,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_136",
@@ -3252,7 +3522,8 @@
         "y": -90.55726856942618,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_027",
@@ -3264,7 +3535,8 @@
         "y": -46.01953731177042,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mahon_castle_town",
@@ -3276,7 +3548,8 @@
         "y": -108.37131530095411,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "knohr_hollow",
@@ -3288,7 +3561,8 @@
         "y": -211.8333329153191,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_137",
@@ -3300,7 +3574,8 @@
         "y": -184.68202013699369,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_138",
@@ -3312,7 +3587,8 @@
         "y": -227.82594789195235,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_028",
@@ -3324,7 +3600,8 @@
         "y": -264.4185932829452,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_139",
@@ -3336,7 +3613,8 @@
         "y": -292.3980685117759,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "orion_canyon",
@@ -3348,7 +3626,8 @@
         "y": -305.5850804901433,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_140",
@@ -3360,7 +3639,8 @@
         "y": -60.82129878204688,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_141",
@@ -3372,7 +3652,8 @@
         "y": -144.89045011898628,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_142",
@@ -3384,7 +3665,8 @@
         "y": -215.17965421268246,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_143",
@@ -3396,7 +3678,8 @@
         "y": -319.0519156036759,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_144",
@@ -3408,7 +3691,8 @@
         "y": -356.98982067031517,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "barsk_post_town",
@@ -3420,7 +3704,8 @@
         "y": -377.29917692257646,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_145",
@@ -3432,7 +3717,8 @@
         "y": -434.9034450883357,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_146",
@@ -3444,7 +3730,8 @@
         "y": -247.84018509555477,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_147",
@@ -3456,7 +3743,8 @@
         "y": -286.84348562168344,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "muzura_death_cave",
@@ -3468,7 +3756,8 @@
         "y": -337.0519156036759,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "urkulu_stronghold",
@@ -3480,7 +3769,8 @@
         "y": -515.16838120001,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_029",
@@ -3492,7 +3782,8 @@
         "y": -584.2214370739198,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_148",
@@ -3504,7 +3795,8 @@
         "y": -559.6347302486931,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "howling_gorge",
@@ -3516,7 +3808,8 @@
         "y": -535.5605099676384,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_149",
@@ -3528,7 +3821,8 @@
         "y": -389.9357997694297,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_150",
@@ -3540,7 +3834,8 @@
         "y": -464.73029770095974,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_151",
@@ -3552,7 +3847,8 @@
         "y": -349.4834326054627,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_152",
@@ -3564,7 +3860,8 @@
         "y": -512.3341932541114,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cindered_road_cave",
@@ -3576,7 +3873,8 @@
         "y": -497.44468518559086,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_153",
@@ -3588,7 +3886,8 @@
         "y": -389.6055106162691,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_030",
@@ -3600,7 +3899,8 @@
         "y": -444.51319646852284,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_154",
@@ -3612,7 +3912,8 @@
         "y": -389.6055106162691,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_155",
@@ -3624,7 +3925,8 @@
         "y": -347.8646018450965,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_156",
@@ -3636,7 +3938,8 @@
         "y": -603.6051616144644,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_157",
@@ -3648,7 +3951,8 @@
         "y": -660.1193810595081,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "the_valley_of_death",
@@ -3660,7 +3964,8 @@
         "y": -660.0747294126821,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_158",
@@ -3672,7 +3977,8 @@
         "y": -610.8159397622107,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_159",
@@ -3684,7 +3990,8 @@
         "y": -519.8900536937409,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ruins_of_ys",
@@ -3696,7 +4003,8 @@
         "y": -399.6025354811521,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "lake_menor",
@@ -3708,7 +4016,8 @@
         "y": -477.8434264937634,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "da_mina",
@@ -3720,7 +4029,8 @@
         "y": -641.7664215711726,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "alta_peak",
@@ -3732,7 +4042,8 @@
         "y": -741.0360044252934,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "iapetus_cavern",
@@ -3744,7 +4055,8 @@
         "y": -757.0717435495533,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_031",
@@ -3756,7 +4068,8 @@
         "y": -676.1701369513958,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_160",
@@ -3768,7 +4081,8 @@
         "y": -728.5533172613042,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_161",
@@ -3780,7 +4094,8 @@
         "y": -682.478191841483,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_162",
@@ -3792,7 +4107,8 @@
         "y": -543.4570045838238,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "yashiro_port",
@@ -3804,7 +4120,8 @@
         "y": -689.4698223712393,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_163",
@@ -3816,7 +4133,8 @@
         "y": -725.422278126169,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_164",
@@ -3828,7 +4146,8 @@
         "y": -685.335240057699,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_032",
@@ -3840,7 +4159,8 @@
         "y": -723.9282344504934,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_033",
@@ -3852,7 +4172,8 @@
         "y": -756.0612491387801,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "niiza_port",
@@ -3864,7 +4185,8 @@
         "y": -784.2862660972972,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cartodo_posthouse",
@@ -3876,7 +4198,8 @@
         "y": -694.1701369513958,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "smyrnos_s_temple",
@@ -3888,7 +4211,8 @@
         "y": -307.4834326054627,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mahdel_s_shrine",
@@ -3900,7 +4224,8 @@
         "y": -784.0803544937629,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_165",
@@ -3912,7 +4237,8 @@
         "y": 596.5706437765714,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_166",
@@ -3924,7 +4250,8 @@
         "y": 683.2016887639622,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "agris_stronghold",
@@ -3936,7 +4263,8 @@
         "y": 741.1006407927911,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_034",
@@ -3948,7 +4276,8 @@
         "y": 824.7668829405416,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_167",
@@ -3960,7 +4289,8 @@
         "y": 767.0643737657696,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "south_zorto_stronghold",
@@ -3972,7 +4302,8 @@
         "y": 721.5768213477488,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_168",
@@ -3984,7 +4315,8 @@
         "y": 919.4568286846885,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "klytius_plains",
@@ -3996,7 +4328,8 @@
         "y": 1011.7403299171135,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_169",
@@ -4008,7 +4341,8 @@
         "y": 1009.099449225229,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_170",
@@ -4020,7 +4354,8 @@
         "y": 948.3161582702761,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_171",
@@ -4032,7 +4367,8 @@
         "y": 1111.5210291315375,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sparrow_s_thoroughfare",
@@ -4044,7 +4380,8 @@
         "y": 1198.8164430126112,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_172",
@@ -4056,7 +4393,8 @@
         "y": 1216.5256663351433,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_173",
@@ -4068,7 +4406,8 @@
         "y": 1207.5660414846952,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_174",
@@ -4080,7 +4419,8 @@
         "y": 1222.5468533910039,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_035",
@@ -4092,7 +4432,8 @@
         "y": 1213.5634032432586,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_175",
@@ -4104,7 +4445,8 @@
         "y": 1137.3837256360537,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "lyoshan_fort",
@@ -4116,7 +4458,8 @@
         "y": 1224.2912985945954,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "devils_bridge_of_sodan",
@@ -4128,7 +4471,8 @@
         "y": 1077.3498739603635,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "oleance_plains",
@@ -4140,7 +4484,8 @@
         "y": 1272.9137431639697,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ravio_port",
@@ -4152,7 +4497,8 @@
         "y": 1264.4137431639697,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_176",
@@ -4164,7 +4510,8 @@
         "y": 1361.4902769874,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_177",
@@ -4176,7 +4523,8 @@
         "y": 1325.560102515325,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_036",
@@ -4188,7 +4536,8 @@
         "y": 1330.1120590702772,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_037",
@@ -4200,7 +4549,8 @@
         "y": 1464.12794643604,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "great_tartarus_ruins",
@@ -4212,7 +4562,8 @@
         "y": 1316.3968620684666,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ladon_lake",
@@ -4224,7 +4575,8 @@
         "y": 1416.603351812608,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "starwatch_pass",
@@ -4236,7 +4588,8 @@
         "y": 1432.0668108108302,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "masked_woods",
@@ -4248,7 +4601,8 @@
         "y": 1483.8435246990953,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_178",
@@ -4260,7 +4614,8 @@
         "y": 1518.2917366774873,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "secret_altar",
@@ -4272,7 +4627,8 @@
         "y": 1560.2380344216142,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_179",
@@ -4284,7 +4640,8 @@
         "y": 1518.2917366774873,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "phrygia_stronghold",
@@ -4296,7 +4653,8 @@
         "y": 1612.6568974558454,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kyklops_stronghold",
@@ -4308,7 +4666,8 @@
         "y": 1560.2915800648516,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_180",
@@ -4320,7 +4679,8 @@
         "y": 1650.8992932612623,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_038",
@@ -4332,7 +4692,8 @@
         "y": 1745.2060467891874,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_181",
@@ -4344,7 +4705,8 @@
         "y": 1836.2388093981936,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "tritopater_corridor",
@@ -4356,7 +4718,8 @@
         "y": 1910.9729808144043,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_182",
@@ -4368,7 +4731,8 @@
         "y": 1930.3963235747615,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_183",
@@ -4380,7 +4744,8 @@
         "y": 1958.9406675891673,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "moonwatch_pass",
@@ -4392,7 +4757,8 @@
         "y": 1969.9756305585397,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_184",
@@ -4404,7 +4770,8 @@
         "y": 1893.2027458594375,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_185",
@@ -4416,7 +4783,8 @@
         "y": 2005.0624438197892,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_186",
@@ -4428,7 +4796,8 @@
         "y": 2076.6362382125735,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_187",
@@ -4440,7 +4809,8 @@
         "y": 2169.8407404972495,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "axion_gorge",
@@ -4452,7 +4822,8 @@
         "y": 2249.361797909887,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_039",
@@ -4464,7 +4835,8 @@
         "y": 2355.306658565705,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_188",
@@ -4476,7 +4848,8 @@
         "y": 2466.8258523098366,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "faun_s_forest",
@@ -4488,7 +4861,8 @@
         "y": 2516.1844329513096,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_189",
@@ -4500,7 +4874,8 @@
         "y": 2517.6233372828037,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_190",
@@ -4512,7 +4887,8 @@
         "y": 2470.1306183782804,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_191",
@@ -4524,7 +4900,8 @@
         "y": 2432.286807581865,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_040",
@@ -4536,7 +4913,8 @@
         "y": 2407.044254298963,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_192",
@@ -4548,7 +4926,8 @@
         "y": 2615.9678156106556,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_193",
@@ -4560,7 +4939,8 @@
         "y": 2714.004215841267,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "wandering_wood",
@@ -4572,7 +4952,8 @@
         "y": 1917.554645794572,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "valhalla_mine",
@@ -4584,7 +4965,8 @@
         "y": 2254.919637592743,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_194",
@@ -4596,7 +4978,8 @@
         "y": 2254.919637592743,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_195",
@@ -4608,7 +4991,8 @@
         "y": 2217.075826796328,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_196",
@@ -4620,7 +5004,8 @@
         "y": 2191.833273513426,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "lake_brontes",
@@ -4632,7 +5017,8 @@
         "y": 2182.8353283170613,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_197",
@@ -4644,7 +5030,8 @@
         "y": 2249.361797909887,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_198",
@@ -4656,7 +5043,8 @@
         "y": 2319.583635516953,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "grania_stronghold",
@@ -4668,7 +5056,8 @@
         "y": 2417.052698327915,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "hero_s_spirit_monument",
@@ -4680,7 +5069,8 @@
         "y": 1736.2060467891874,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "megaria",
@@ -4692,7 +5082,8 @@
         "y": 2351.53052904502,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "alecto",
@@ -4704,7 +5095,8 @@
         "y": 2059.1362382125735,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "salacia_posthouse",
@@ -4716,7 +5108,8 @@
         "y": 1992.943938796369,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "callisto_posthouse",
@@ -4728,7 +5121,8 @@
         "y": 1457.489607783747,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "messalina_orchards",
@@ -4740,7 +5134,8 @@
         "y": 2785.2810257080723,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_199",
@@ -4752,7 +5147,8 @@
         "y": 2403.813613664718,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_200",
@@ -4764,7 +5160,8 @@
         "y": 2419.52340978723,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_201",
@@ -4776,7 +5173,8 @@
         "y": 2429.6915116394694,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_041",
@@ -4788,7 +5186,8 @@
         "y": 2428.3655698160333,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_202",
@@ -4800,7 +5199,8 @@
         "y": 2546.0690783709756,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_203",
@@ -4812,7 +5212,8 @@
         "y": 2647.3675568718636,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_204",
@@ -4824,7 +5225,8 @@
         "y": 2416.089265643022,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "benetnasch",
@@ -4836,7 +5238,8 @@
         "y": 2331.1831716395886,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fort_zanbar",
@@ -4848,7 +5251,8 @@
         "y": 2408.8573346882363,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "headsman_s_rock",
@@ -4860,7 +5264,8 @@
         "y": 2317.9721608648,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "wailing_woods",
@@ -4872,7 +5277,8 @@
         "y": 2745.3834782846075,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kurdelind_ruins",
@@ -4884,7 +5290,8 @@
         "y": 2595.390428136847,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "memorial_garden",
@@ -4896,7 +5303,8 @@
         "y": 2770.016106695481,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "giant_s_print_fort",
@@ -4908,7 +5316,8 @@
         "y": 2859.5151242666143,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_205",
@@ -4920,7 +5329,8 @@
         "y": 2810.516796021391,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_206",
@@ -4932,7 +5342,8 @@
         "y": 2728.4936330087567,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_042",
@@ -4944,7 +5355,8 @@
         "y": 2686.637247077203,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_043",
@@ -4956,7 +5368,8 @@
         "y": 2380.501907632136,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "aguino",
@@ -4968,7 +5381,8 @@
         "y": 1139.2789441801579,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mount_ouranos",
@@ -4980,7 +5394,8 @@
         "y": 1822.3217868684198,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "troy_s_shrine",
@@ -4992,7 +5407,8 @@
         "y": 1857.411901059419,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_207",
@@ -5004,7 +5420,8 @@
         "y": 1997.8520065729326,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "starbirth_garden",
@@ -5016,7 +5433,8 @@
         "y": 2041.5790706737962,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "myugria_great_tree",
@@ -5028,7 +5446,8 @@
         "y": 2379.2329413764965,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "megaria_lighthouse",
@@ -5040,7 +5459,8 @@
         "y": 2280.9923753512394,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_208",
@@ -5052,7 +5472,8 @@
         "y": 2320.8613013618187,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_209",
@@ -5064,7 +5485,8 @@
         "y": 2248.012554983393,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "maharipa_garden",
@@ -5076,7 +5498,8 @@
         "y": 2150.644258998112,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_210",
@@ -5088,7 +5511,8 @@
         "y": 2495.2517694267585,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_211",
@@ -5100,7 +5524,8 @@
         "y": 1696.1408739747458,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_212",
@@ -5112,7 +5537,8 @@
         "y": 1736.3291905152478,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "rotwood_pass",
@@ -5124,7 +5550,8 @@
         "y": 1755.0653106738257,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_213",
@@ -5136,7 +5563,8 @@
         "y": 1799.267341434128,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_214",
@@ -5148,7 +5576,8 @@
         "y": 1852.9910646773326,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "dead_amethyst_garden",
@@ -5160,7 +5589,8 @@
         "y": 1917.1660713224744,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ahm_lu",
@@ -5172,7 +5602,8 @@
         "y": 1972.8691696792014,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_215",
@@ -5184,7 +5615,8 @@
         "y": 2061.3868588394516,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_216",
@@ -5196,7 +5628,8 @@
         "y": 2125.026531055625,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_217",
@@ -5208,7 +5641,8 @@
         "y": 1999.1665345150418,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_218",
@@ -5220,7 +5654,8 @@
         "y": 2011.258887379864,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "isle_of_balor",
@@ -5232,7 +5667,8 @@
         "y": 2028.132677592711,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "temple_of_balor",
@@ -5244,7 +5680,8 @@
         "y": 1963.3453990629898,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kira",
@@ -5256,7 +5693,8 @@
         "y": 1693.4830023278469,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "wordless_graves",
@@ -5268,7 +5706,8 @@
         "y": 1654.621758673792,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "uzmali_shore",
@@ -5280,7 +5719,8 @@
         "y": 1810.898727149468,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "fezzan_gate",
@@ -5292,7 +5732,8 @@
         "y": 458.7454299523466,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "southern_passage",
@@ -5304,7 +5745,8 @@
         "y": 426.9038675021956,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "tarvos",
@@ -5316,7 +5758,8 @@
         "y": 295.9462278913851,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "kunlun",
@@ -5328,7 +5771,8 @@
         "y": 289.53691078855843,
         "width": 50.3125,
         "height": 53.75,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "baina_oasis",
@@ -5340,7 +5784,8 @@
         "y": 344.0153312861488,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "zorto_lake",
@@ -5352,7 +5797,8 @@
         "y": 699.9196949656873,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_219",
@@ -5364,7 +5810,8 @@
         "y": 631.5122838486074,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_220",
@@ -5376,7 +5823,8 @@
         "y": 784.3971615134299,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_221",
@@ -5388,7 +5836,8 @@
         "y": 799.2224759350091,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_222",
@@ -5400,7 +5849,8 @@
         "y": 808.3855633295614,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_223",
@@ -5412,7 +5862,8 @@
         "y": 795.4757685619514,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_224",
@@ -5424,7 +5875,8 @@
         "y": 595.7376321727199,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "garamantes_lake",
@@ -5436,7 +5888,8 @@
         "y": 580.6381468683896,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "north_zorto_stronghold",
@@ -5448,7 +5901,8 @@
         "y": 495.2628516900131,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_225",
@@ -5460,7 +5914,8 @@
         "y": 435.38980064835334,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_044",
@@ -5472,7 +5927,8 @@
         "y": 379.0153312861488,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_226",
@@ -5484,7 +5940,8 @@
         "y": 337.55466084286326,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_227",
@@ -5496,7 +5953,8 @@
         "y": 108.38477526444262,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_228",
@@ -5508,7 +5966,8 @@
         "y": 175.44685509142738,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_229",
@@ -5520,7 +5979,8 @@
         "y": 253.9462278913851,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "midnight_turn",
@@ -5532,7 +5992,8 @@
         "y": 785.819152273795,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "shadowy_cave",
@@ -5544,7 +6005,8 @@
         "y": 707.8384588251549,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_230",
@@ -5556,7 +6018,8 @@
         "y": 590.1349683889362,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "smiling_stone",
@@ -5568,7 +6031,8 @@
         "y": 593.4610290305518,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_231",
@@ -5580,7 +6044,8 @@
         "y": 608.4697141618668,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_232",
@@ -5592,7 +6057,8 @@
         "y": 610.6720145293921,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_233",
@@ -5604,7 +6070,8 @@
         "y": 794.819152273795,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_045",
@@ -5616,7 +6083,8 @@
         "y": 789.9253071563344,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_234",
@@ -5628,7 +6096,8 @@
         "y": 717.5782194157515,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ada_fort_ruins",
@@ -5640,7 +6109,8 @@
         "y": 613.5122838486074,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_235",
@@ -5652,7 +6122,8 @@
         "y": 896.4139219024496,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_046",
@@ -5664,7 +6135,8 @@
         "y": 834.7227736213262,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_236",
@@ -5676,7 +6148,8 @@
         "y": 920.939136691554,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_237",
@@ -5688,7 +6161,8 @@
         "y": 1025.738557059079,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_238",
@@ -5700,7 +6174,8 @@
         "y": 1012.465095264442,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "naimi_lake",
@@ -5712,7 +6187,8 @@
         "y": 975.1945985872661,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "tasit_plain",
@@ -5724,7 +6200,8 @@
         "y": 995.1131454412777,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_239",
@@ -5736,7 +6213,8 @@
         "y": 625.8147516536741,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_240",
@@ -5748,7 +6226,8 @@
         "y": 629.6925979671453,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_241",
@@ -5760,7 +6239,8 @@
         "y": 623.9677804968327,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_242",
@@ -5772,7 +6252,8 @@
         "y": 614.9051900535471,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_243",
@@ -5784,7 +6265,8 @@
         "y": 594.299499069721,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "scorched_grass_dunes",
@@ -5796,7 +6278,8 @@
         "y": 589.8537984142508,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_244",
@@ -5808,7 +6291,8 @@
         "y": 607.8537984142508,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_245",
@@ -5820,7 +6304,8 @@
         "y": 623.9677804968327,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "djole_fort_ruins",
@@ -5832,7 +6317,8 @@
         "y": 616.6587625655599,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_246",
@@ -5844,7 +6330,8 @@
         "y": 548.939537296875,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_247",
@@ -5856,7 +6343,8 @@
         "y": 482.1311662698056,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_248",
@@ -5868,7 +6356,8 @@
         "y": 435.9038675021956,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_249",
@@ -5880,7 +6369,8 @@
         "y": 100.81555044269379,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_250",
@@ -5892,7 +6382,8 @@
         "y": 187.9793840426514,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_251",
@@ -5904,7 +6395,8 @@
         "y": 283.7620128858522,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sandflow_road",
@@ -5916,7 +6408,8 @@
         "y": 358.14915011163276,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_252",
@@ -5928,7 +6421,8 @@
         "y": 626.7828372751695,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "twalinn",
@@ -5940,7 +6434,8 @@
         "y": 584.0646619602832,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_047",
@@ -5952,7 +6447,8 @@
         "y": 546.7020962589532,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_253",
@@ -5964,7 +6460,8 @@
         "y": 515.3603035670199,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_254",
@@ -5976,7 +6473,8 @@
         "y": 403.8616614048162,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_255",
@@ -5988,7 +6486,8 @@
         "y": 373.28691078855843,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_256",
@@ -6000,7 +6499,8 @@
         "y": 685.8763028750847,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_257",
@@ -6012,7 +6512,8 @@
         "y": 1004.1131454412777,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "daimos_plateau",
@@ -6024,7 +6525,8 @@
         "y": 773.6827528790739,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "homeros_outcrop",
@@ -6036,7 +6538,8 @@
         "y": 975.1945985872661,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_258",
@@ -6048,7 +6551,8 @@
         "y": 826.727672230425,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_259",
@@ -6060,7 +6564,8 @@
         "y": 894.2753556898426,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_260",
@@ -6072,7 +6577,8 @@
         "y": 856.7707559925035,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_048",
@@ -6084,7 +6590,8 @@
         "y": 982.7658250519211,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_261",
@@ -6096,7 +6603,8 @@
         "y": 995.9084784572847,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "daimon",
@@ -6108,7 +6616,8 @@
         "y": 784.7966351563772,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "hannibal",
@@ -6120,7 +6629,8 @@
         "y": 704.470423177914,
         "width": 50.3125,
         "height": 53.75,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_049",
@@ -6132,7 +6642,8 @@
         "y": 981.565659170799,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_262",
@@ -6144,7 +6655,8 @@
         "y": 1025.738557059079,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mars_temple",
@@ -6156,7 +6668,8 @@
         "y": 950.2617798918509,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "rear_mountain_path",
@@ -6168,7 +6681,8 @@
         "y": 1072.1587822914682,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_263",
@@ -6180,7 +6694,8 @@
         "y": 1090.1587822914682,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_264",
@@ -6192,7 +6707,8 @@
         "y": 1132.1587822914682,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_265",
@@ -6204,7 +6720,8 @@
         "y": 1214.281580475213,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_266",
@@ -6216,7 +6733,8 @@
         "y": 1240.2376015778768,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mount_orgus_trail",
@@ -6228,7 +6746,8 @@
         "y": 1247.3756315959624,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_267",
@@ -6240,7 +6759,8 @@
         "y": 1241.3888576210811,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "warrior_s_road",
@@ -6252,7 +6772,8 @@
         "y": 1156.0693637328811,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_268",
@@ -6264,7 +6785,8 @@
         "y": 1087.2020895274368,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ruins_of_nyassa",
@@ -6276,7 +6798,8 @@
         "y": 1123.1587822914682,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_269",
@@ -6288,7 +6811,8 @@
         "y": 1214.0294298157535,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "nemea_cavern",
@@ -6300,7 +6824,8 @@
         "y": 1308.5629808903589,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_270",
@@ -6312,7 +6837,8 @@
         "y": 1336.0165428254775,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_271",
@@ -6324,7 +6850,8 @@
         "y": 1351.634377203817,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_272",
@@ -6336,7 +6863,8 @@
         "y": 1368.9855007497238,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_050",
@@ -6348,7 +6876,8 @@
         "y": 1380.2889737010362,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_273",
@@ -6360,7 +6889,8 @@
         "y": 1326.5629808903589,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_274",
@@ -6372,7 +6902,8 @@
         "y": 1201.6315416356242,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_275",
@@ -6384,7 +6915,8 @@
         "y": 1373.670937802105,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_276",
@@ -6396,7 +6928,8 @@
         "y": 1353.484007120985,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_051",
@@ -6408,7 +6941,8 @@
         "y": 1298.1137676246963,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "lake_baldr",
@@ -6420,7 +6954,8 @@
         "y": 1213.6315416356242,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "whill",
@@ -6432,7 +6967,8 @@
         "y": 1422.2889737010362,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mountainside_hermitage",
@@ -6444,7 +6980,8 @@
         "y": 1180.9034815564187,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "hundred_hole_cave",
@@ -6456,7 +6993,8 @@
         "y": 1056.368408436305,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "areus_stronghold",
@@ -6468,7 +7006,8 @@
         "y": 1103.8639028031123,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_277",
@@ -6480,7 +7019,8 @@
         "y": 1189.9034815564187,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "breston",
@@ -6492,7 +7032,8 @@
         "y": 1263.1137676246963,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_278",
@@ -6504,7 +7045,8 @@
         "y": 1280.6137676246963,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_052",
@@ -6516,7 +7058,8 @@
         "y": 1285.7716325473582,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "pallas_bridge",
@@ -6528,7 +7071,8 @@
         "y": 1267.7716325473582,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "chiron_posthouse",
@@ -6540,7 +7084,8 @@
         "y": 1198.8164430126112,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_279",
@@ -6552,7 +7097,8 @@
         "y": 1285.7716325473582,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_280",
@@ -6564,7 +7110,8 @@
         "y": 1276.7716325473582,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_281",
@@ -6576,7 +7123,8 @@
         "y": 1047.309388395971,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mulciber_marshlands",
@@ -6588,7 +7136,8 @@
         "y": 1101.2723153508919,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_282",
@@ -6600,7 +7149,8 @@
         "y": 1028.8815470913964,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_283",
@@ -6612,7 +7162,8 @@
         "y": 1163.9801684175566,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "mons",
@@ -6624,7 +7175,8 @@
         "y": 1241.7716325473582,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_284",
@@ -6636,7 +7188,8 @@
         "y": 1246.9136234662412,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "lemont_stronghold",
@@ -6648,7 +7201,8 @@
         "y": 1198.8164430126112,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_285",
@@ -6660,7 +7214,8 @@
         "y": 1182.512927595935,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_053",
@@ -6672,7 +7227,8 @@
         "y": 1142.669478687791,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_286",
@@ -6684,7 +7240,8 @@
         "y": 1108.1642165039714,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "leiria_stronghold",
@@ -6696,7 +7253,8 @@
         "y": 1075.4528573115585,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_287",
@@ -6708,7 +7266,8 @@
         "y": 1038.3353277688004,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "jurah_s_temple",
@@ -6720,7 +7279,8 @@
         "y": 908.1522826377574,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_288",
@@ -6732,7 +7292,8 @@
         "y": 1326.5629808903589,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ries_north_stronghold",
@@ -6744,7 +7305,8 @@
         "y": 1382.8968880184261,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_289",
@@ -6756,7 +7318,8 @@
         "y": 1464.0788956723047,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_054",
@@ -6768,7 +7331,8 @@
         "y": 1530.527967124521,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_290",
@@ -6780,7 +7344,8 @@
         "y": 1573.500716511755,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_055",
@@ -6792,7 +7357,8 @@
         "y": 1638.1661145762148,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_056",
@@ -6804,7 +7370,8 @@
         "y": 1736.1810356284363,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ries_south_stronghold",
@@ -6816,7 +7383,8 @@
         "y": 1771.771602590874,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "junction_057",
@@ -6828,7 +7396,8 @@
         "y": 1789.9815290049823,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_291",
@@ -6840,7 +7409,8 @@
         "y": 1786.1963175599067,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "green_crystal_caves",
@@ -6852,7 +7422,8 @@
         "y": 1508.126001258001,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "giant_s_mount",
@@ -6864,7 +7435,8 @@
         "y": 1638.134402489905,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "valley_of_sedden",
@@ -6876,7 +7448,8 @@
         "y": 1770.8111368177986,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "la_mancha_fort_ruins",
@@ -6888,7 +7461,8 @@
         "y": 1734.4355879889356,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cougar_canopy",
@@ -6900,7 +7474,8 @@
         "y": 1590.5853972863356,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "cougar_woodlands",
@@ -6912,7 +7487,8 @@
         "y": 1723.975660220097,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_292",
@@ -6924,7 +7500,8 @@
         "y": 1653.5252391599029,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_293",
@@ -6936,7 +7513,8 @@
         "y": 1823.4633892715842,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "gleaming_hill",
@@ -6948,7 +7526,8 @@
         "y": 1884.2027458594375,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_294",
@@ -6960,7 +7539,8 @@
         "y": 1670.7403885940726,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "walle_s_woodlands",
@@ -6972,7 +7552,8 @@
         "y": 1590.5853972863356,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "credna_s_temple",
@@ -6984,7 +7565,8 @@
         "y": 1590.5853972863356,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_295",
@@ -6996,7 +7578,8 @@
         "y": 1431.3469720030453,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_296",
@@ -7008,7 +7591,8 @@
         "y": 1596.717398093579,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_297",
@@ -7020,7 +7604,8 @@
         "y": 1552.3378791890382,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "luminaria_pass",
@@ -7032,7 +7617,8 @@
         "y": 1464.12794643604,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_298",
@@ -7044,7 +7630,8 @@
         "y": 1214.0539926481479,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "musta_bridge",
@@ -7056,7 +7643,34 @@
         "y": 1296.3614781404997,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
+      },
+      {
+        "id": "forest_of_enigmas",
+        "label": "Forest of Enigmas",
+        "category": "resource",
+        "region": null,
+        "shape_type": "roundrectangle",
+        "x": -104.40487695471222,
+        "y": 1518.2917366774873,
+        "width": 30.0,
+        "height": 30.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "junction_058",
+        "label": "junction_058",
+        "category": "junction",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -122.37988145508155,
+        "y": 1596.717398093579,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
       },
       {
         "id": "junction_059",
@@ -7068,7 +7682,138 @@
         "y": 1548.3313232826533,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
+      },
+      {
+        "id": "road_299",
+        "label": "road_299",
+        "category": "road",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": 57.61340454137485,
+        "y": 1548.070930864596,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "junction_060",
+        "label": "junction_060",
+        "category": "junction",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -25.88358722881219,
+        "y": 1765.4751126197584,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "road_300",
+        "label": "road_300",
+        "category": "road",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -24.927314738692075,
+        "y": 1680.885798601701,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "road_301",
+        "label": "road_301",
+        "category": "road",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -21.409393989178795,
+        "y": 1612.6568974558454,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "road_302",
+        "label": "road_302",
+        "category": "road",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -196.53744040279935,
+        "y": 1605.8282828214676,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "road_303",
+        "label": "road_303",
+        "category": "road",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -102.2714390478144,
+        "y": 1682.4342037439508,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "road_304",
+        "label": "road_304",
+        "category": "road",
+        "region": null,
+        "shape_type": "ellipse",
+        "x": -130.6910762658024,
+        "y": 1762.1208656826502,
+        "width": 11.0,
+        "height": 12.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "unmarked_graves",
+        "label": "Unmarked Graves",
+        "category": "resource",
+        "region": null,
+        "shape_type": "roundrectangle",
+        "x": -226.44330941594353,
+        "y": 1771.540278140511,
+        "width": 30.0,
+        "height": 30.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "pebble_mountain",
+        "label": "Pebble Mountain",
+        "category": "resource",
+        "region": null,
+        "shape_type": "roundrectangle",
+        "x": -215.72462741230993,
+        "y": 1670.1938496575888,
+        "width": 30.0,
+        "height": 30.0,
+        "fill": "#FFCC00",
+        "discovered": false
+      },
+      {
+        "id": "beast_s_path",
+        "label": "Beast's Path",
+        "category": "dungeon",
+        "region": null,
+        "shape_type": "triangle2",
+        "x": 90.06229708120111,
+        "y": 1597.3941909953269,
+        "width": 30.0,
+        "height": 30.0,
+        "fill": "#FFCC00",
+        "discovered": false
       },
       {
         "id": "fort_hayn",
@@ -7080,7 +7825,8 @@
         "y": 1075.0765219791078,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_305",
@@ -7092,7 +7838,8 @@
         "y": 1047.6056461832445,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "tower_of_ikaros",
@@ -7104,7 +7851,8 @@
         "y": 1002.3987868463093,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "tarvos_south_road",
@@ -7116,7 +7864,21 @@
         "y": 362.6944574525903,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
+      },
+      {
+        "id": "bombae",
+        "label": "Bombae",
+        "category": "town",
+        "region": null,
+        "shape_type": "star6",
+        "x": 29.23532621634729,
+        "y": 1727.7060467891874,
+        "width": 50.3125,
+        "height": 47.0,
+        "fill": "#FFCC00",
+        "discovered": false
       },
       {
         "id": "cassiopeia",
@@ -7128,7 +7890,8 @@
         "y": 1039.368408436305,
         "width": 50.3125,
         "height": 47.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "katarina",
@@ -7140,7 +7903,8 @@
         "y": -61.29199027030529,
         "width": 48.812594854021654,
         "height": 55.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ptolemaios",
@@ -7152,7 +7916,8 @@
         "y": -584.2214370739198,
         "width": 57.34438010857764,
         "height": 52.76443249009594,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "hypatia",
@@ -7164,7 +7929,8 @@
         "y": -311.86577873875336,
         "width": 62.0,
         "height": 53.75,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "zoste",
@@ -7176,7 +7942,8 @@
         "y": 683.2016887639622,
         "width": 61.55120781758956,
         "height": 46.718006201725075,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "aurora_s_temple",
@@ -7188,7 +7955,8 @@
         "y": 1432.0668108108302,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_306",
@@ -7200,7 +7968,8 @@
         "y": 246.5,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_307",
@@ -7212,7 +7981,8 @@
         "y": 186.6417683609201,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_308",
@@ -7224,7 +7994,8 @@
         "y": 210.5803402658887,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_309",
@@ -7236,7 +8007,8 @@
         "y": 309.379363332638,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "madieu_vestige",
@@ -7248,7 +8020,8 @@
         "y": 166.44685509142738,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_310",
@@ -7260,7 +8033,8 @@
         "y": 380.6944574525903,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_311",
@@ -7272,7 +8046,8 @@
         "y": 423.07782866266206,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "desert_resource_001",
@@ -7284,7 +8059,8 @@
         "y": 417.9038675021956,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_312",
@@ -7296,7 +8072,8 @@
         "y": 410.892423672951,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_313",
@@ -7308,7 +8085,8 @@
         "y": 312.84656752145924,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_314",
@@ -7320,7 +8098,8 @@
         "y": 242.33634724401742,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_315",
@@ -7332,7 +8111,21 @@
         "y": 210.27491914898602,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
+      },
+      {
+        "id": "north_tarvos_road",
+        "label": "North Tarvos Road",
+        "category": "resource",
+        "region": "desert",
+        "shape_type": "roundrectangle",
+        "x": -150.42189785930668,
+        "y": 157.44685509142738,
+        "width": 30.0,
+        "height": 30.0,
+        "fill": "#FFCC00",
+        "discovered": false
       },
       {
         "id": "road_316",
@@ -7344,7 +8137,8 @@
         "y": 133.50031345951805,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_317",
@@ -7356,7 +8150,8 @@
         "y": 136.81940045677766,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_318",
@@ -7368,7 +8163,8 @@
         "y": 151.86238443557906,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_319",
@@ -7380,7 +8176,8 @@
         "y": 134.0263506510797,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "bottomless_pit_of_sand",
@@ -7392,7 +8189,8 @@
         "y": 118.81940045677766,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_320",
@@ -7404,7 +8202,8 @@
         "y": 102.69081597624374,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_321",
@@ -7416,7 +8215,8 @@
         "y": 187.9793840426514,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_322",
@@ -7428,7 +8228,8 @@
         "y": 185.93090649627865,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_323",
@@ -7440,7 +8241,8 @@
         "y": 350.6944574525903,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_324",
@@ -7452,7 +8254,8 @@
         "y": 313.9462278913851,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_325",
@@ -7464,7 +8267,8 @@
         "y": 397.3084108756796,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_326",
@@ -7476,7 +8280,8 @@
         "y": 375.364970359367,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_327",
@@ -7488,7 +8293,8 @@
         "y": 340.7152012437059,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sand_pillars",
@@ -7500,7 +8306,8 @@
         "y": 274.7620128858522,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "dragonbone_tangle",
@@ -7512,7 +8319,8 @@
         "y": 265.7620128858522,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_328",
@@ -7524,7 +8332,8 @@
         "y": 358.9444498913455,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_329",
@@ -7536,7 +8345,8 @@
         "y": 323.4156630123836,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sandworm_nest",
@@ -7548,7 +8358,8 @@
         "y": 391.65156384925984,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_330",
@@ -7560,7 +8371,8 @@
         "y": 337.61077311496354,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_331",
@@ -7572,7 +8384,8 @@
         "y": 394.5980572892047,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_332",
@@ -7584,7 +8397,8 @@
         "y": 479.7736025709377,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ancient_city_of_tristan",
@@ -7596,7 +8410,8 @@
         "y": 495.2628516900131,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_333",
@@ -7608,7 +8423,8 @@
         "y": 551.6989100394746,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_334",
@@ -7620,7 +8436,8 @@
         "y": 311.84688681260036,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_335",
@@ -7632,7 +8449,8 @@
         "y": 265.7620128858522,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "aditi_s_cave",
@@ -7644,7 +8462,8 @@
         "y": 192.27491914898602,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_336",
@@ -7656,7 +8475,8 @@
         "y": 134.97768602860538,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_337",
@@ -7668,7 +8488,8 @@
         "y": 101.53873749926302,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_338",
@@ -7680,7 +8501,8 @@
         "y": 88.47930584288483,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_339",
@@ -7692,7 +8514,8 @@
         "y": 431.6439134406961,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_340",
@@ -7704,7 +8527,8 @@
         "y": 525.0428565943076,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_341",
@@ -7716,7 +8540,8 @@
         "y": 463.44279796724595,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_342",
@@ -7728,7 +8553,8 @@
         "y": 541.6690519569052,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "sand_shadow_fort",
@@ -7740,7 +8566,8 @@
         "y": 532.6690519569052,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_343",
@@ -7752,7 +8579,8 @@
         "y": 527.1714089650226,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_344",
@@ -7764,7 +8592,8 @@
         "y": 528.777179827646,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_345",
@@ -7776,7 +8605,8 @@
         "y": 458.9185865643194,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "corpses_gutter",
@@ -7788,7 +8618,8 @@
         "y": 436.87496172113833,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_346",
@@ -7800,7 +8631,8 @@
         "y": 383.3370945387778,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_347",
@@ -7812,7 +8644,8 @@
         "y": 235.26251199551558,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_348",
@@ -7824,7 +8657,8 @@
         "y": 178.08695065887323,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "windless_waste",
@@ -7836,7 +8670,8 @@
         "y": 247.7620128858522,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "ge_tower_cemetary",
@@ -7848,7 +8683,8 @@
         "y": 130.47930584288483,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "palace_of_sand",
@@ -7860,7 +8696,8 @@
         "y": 289.53691078855843,
         "width": 30.0,
         "height": 30.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_349",
@@ -7872,7 +8709,8 @@
         "y": 337.61077311496354,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_350",
@@ -7884,7 +8722,8 @@
         "y": 450.33852443361303,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_351",
@@ -7896,7 +8735,8 @@
         "y": 373.2916700627946,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "road_352",
@@ -7908,7 +8748,8 @@
         "y": 430.35609281580633,
         "width": 11.0,
         "height": 12.0,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       },
       {
         "id": "magellan",
@@ -7920,7 +8761,8 @@
         "y": 262.99434144553237,
         "width": 50.3125,
         "height": 53.75,
-        "fill": "#FFCC00"
+        "fill": "#FFCC00",
+        "discovered": true
       }
     ],
     "edges": [
@@ -11694,558 +12536,660 @@
       },
       {
         "id": "public-edge-629",
+        "source": "luminaria_pass",
+        "target": "forest_of_enigmas",
+        "directed": false
+      },
+      {
+        "id": "public-edge-630",
+        "source": "forest_of_enigmas",
+        "target": "junction_059",
+        "directed": false
+      },
+      {
+        "id": "public-edge-631",
+        "source": "junction_059",
+        "target": "road_299",
+        "directed": false
+      },
+      {
+        "id": "public-edge-632",
+        "source": "forest_of_enigmas",
+        "target": "junction_058",
+        "directed": false
+      },
+      {
+        "id": "public-edge-633",
+        "source": "junction_058",
+        "target": "road_302",
+        "directed": false
+      },
+      {
+        "id": "public-edge-634",
+        "source": "road_302",
+        "target": "pebble_mountain",
+        "directed": false
+      },
+      {
+        "id": "public-edge-635",
+        "source": "junction_058",
+        "target": "road_303",
+        "directed": false
+      },
+      {
+        "id": "public-edge-636",
+        "source": "road_303",
+        "target": "road_304",
+        "directed": false
+      },
+      {
+        "id": "public-edge-637",
+        "source": "road_304",
+        "target": "unmarked_graves",
+        "directed": false
+      },
+      {
+        "id": "public-edge-638",
+        "source": "mount_ouranos",
+        "target": "junction_060",
+        "directed": false
+      },
+      {
+        "id": "public-edge-639",
+        "source": "junction_060",
+        "target": "road_300",
+        "directed": false
+      },
+      {
+        "id": "public-edge-640",
+        "source": "road_300",
+        "target": "road_301",
+        "directed": false
+      },
+      {
+        "id": "public-edge-641",
+        "source": "road_301",
+        "target": "junction_059",
+        "directed": false
+      },
+      {
+        "id": "public-edge-642",
+        "source": "road_299",
+        "target": "beast_s_path",
+        "directed": false
+      },
+      {
+        "id": "public-edge-643",
         "source": "junction_053",
         "target": "fort_hayn",
         "directed": false
       },
       {
-        "id": "public-edge-630",
+        "id": "public-edge-644",
         "source": "fort_hayn",
         "target": "road_305",
         "directed": false
       },
       {
-        "id": "public-edge-631",
+        "id": "public-edge-645",
         "source": "road_305",
         "target": "tower_of_ikaros",
         "directed": false
       },
       {
-        "id": "public-edge-632",
+        "id": "public-edge-646",
         "source": "junction_044",
         "target": "tarvos_south_road",
         "directed": false
       },
       {
-        "id": "public-edge-633",
+        "id": "public-edge-647",
+        "source": "junction_060",
+        "target": "bombae",
+        "directed": false
+      },
+      {
+        "id": "public-edge-648",
         "source": "junction_008",
         "target": "road_015",
         "directed": false
       },
       {
-        "id": "public-edge-634",
+        "id": "public-edge-649",
         "source": "road_015",
         "target": "road_017",
         "directed": false
       },
       {
-        "id": "public-edge-635",
+        "id": "public-edge-650",
         "source": "garamantes_lake",
         "target": "road_230",
         "directed": false
       },
       {
-        "id": "public-edge-636",
+        "id": "public-edge-651",
         "source": "road_230",
         "target": "smiling_stone",
         "directed": false
       },
       {
-        "id": "public-edge-637",
+        "id": "public-edge-652",
         "source": "cassiopeia",
         "target": "hundred_hole_cave",
         "directed": false
       },
       {
-        "id": "public-edge-638",
+        "id": "public-edge-653",
         "source": "heretic_s_cave",
         "target": "katarina",
         "directed": false
       },
       {
-        "id": "public-edge-639",
+        "id": "public-edge-654",
         "source": "cindered_road_cave",
         "target": "ptolemaios",
         "directed": false
       },
       {
-        "id": "public-edge-640",
+        "id": "public-edge-655",
         "source": "cave_behind_the_falls",
         "target": "hypatia",
         "directed": false
       },
       {
-        "id": "public-edge-641",
+        "id": "public-edge-656",
         "source": "zorto_lake",
         "target": "zoste",
         "directed": false
       },
       {
-        "id": "public-edge-642",
+        "id": "public-edge-657",
         "source": "starwatch_pass",
         "target": "aurora_s_temple",
         "directed": false
       },
       {
-        "id": "public-edge-643",
+        "id": "public-edge-658",
         "source": "desert_entrance",
         "target": "road_306",
         "directed": true
       },
       {
-        "id": "public-edge-644",
+        "id": "public-edge-659",
         "source": "road_306",
         "target": "road_307",
         "directed": true
       },
       {
-        "id": "public-edge-645",
+        "id": "public-edge-660",
         "source": "road_307",
         "target": "madieu_vestige",
         "directed": true
       },
       {
-        "id": "public-edge-646",
+        "id": "public-edge-661",
         "source": "madieu_vestige",
         "target": "road_308",
         "directed": true
       },
       {
-        "id": "public-edge-647",
+        "id": "public-edge-662",
         "source": "road_308",
         "target": "desert_entrance",
         "directed": true
       },
       {
-        "id": "public-edge-648",
+        "id": "public-edge-663",
         "source": "road_306",
         "target": "road_314",
         "directed": true
       },
       {
-        "id": "public-edge-649",
+        "id": "public-edge-664",
         "source": "road_314",
         "target": "road_315",
         "directed": true
       },
       {
-        "id": "public-edge-650",
+        "id": "public-edge-665",
         "source": "road_315",
         "target": "road_228",
         "directed": true
       },
       {
-        "id": "public-edge-651",
+        "id": "public-edge-666",
         "source": "road_306",
         "target": "road_309",
         "directed": true
       },
       {
-        "id": "public-edge-652",
+        "id": "public-edge-667",
         "source": "road_309",
         "target": "road_313",
         "directed": true
       },
       {
-        "id": "public-edge-653",
+        "id": "public-edge-668",
         "source": "road_313",
         "target": "tarvos",
         "directed": true
       },
       {
-        "id": "public-edge-654",
+        "id": "public-edge-669",
         "source": "road_309",
         "target": "road_310",
         "directed": true
       },
       {
-        "id": "public-edge-655",
+        "id": "public-edge-670",
         "source": "road_310",
         "target": "road_311",
         "directed": true
       },
       {
-        "id": "public-edge-656",
+        "id": "public-edge-671",
         "source": "road_311",
         "target": "desert_resource_001",
         "directed": true
       },
       {
-        "id": "public-edge-657",
+        "id": "public-edge-672",
         "source": "desert_resource_001",
         "target": "road_312",
         "directed": true
       },
       {
-        "id": "public-edge-658",
+        "id": "public-edge-673",
         "source": "road_312",
         "target": "junction_044",
         "directed": true
       },
       {
-        "id": "public-edge-659",
+        "id": "public-edge-674",
+        "source": "road_228",
+        "target": "north_tarvos_road",
+        "directed": false
+      },
+      {
+        "id": "public-edge-675",
+        "source": "north_tarvos_road",
+        "target": "road_316",
+        "directed": true
+      },
+      {
+        "id": "public-edge-676",
         "source": "road_316",
         "target": "road_317",
         "directed": true
       },
       {
-        "id": "public-edge-660",
+        "id": "public-edge-677",
         "source": "road_317",
         "target": "road_322",
         "directed": true
       },
       {
-        "id": "public-edge-661",
+        "id": "public-edge-678",
         "source": "road_317",
         "target": "road_318",
         "directed": true
       },
       {
-        "id": "public-edge-662",
+        "id": "public-edge-679",
         "source": "road_318",
         "target": "road_319",
         "directed": true
       },
       {
-        "id": "public-edge-663",
+        "id": "public-edge-680",
         "source": "road_319",
         "target": "bottomless_pit_of_sand",
         "directed": true
       },
       {
-        "id": "public-edge-664",
+        "id": "public-edge-681",
         "source": "bottomless_pit_of_sand",
         "target": "road_320",
         "directed": true
       },
       {
-        "id": "public-edge-665",
+        "id": "public-edge-682",
         "source": "road_320",
         "target": "road_123",
         "directed": true
       },
       {
-        "id": "public-edge-666",
+        "id": "public-edge-683",
         "source": "dragonbone_tangle",
         "target": "road_330",
         "directed": true
       },
       {
-        "id": "public-edge-667",
+        "id": "public-edge-684",
         "source": "road_330",
         "target": "sandworm_nest",
         "directed": true
       },
       {
-        "id": "public-edge-668",
+        "id": "public-edge-685",
         "source": "sandworm_nest",
         "target": "road_331",
         "directed": true
       },
       {
-        "id": "public-edge-669",
+        "id": "public-edge-686",
         "source": "road_331",
         "target": "road_328",
         "directed": true
       },
       {
-        "id": "public-edge-670",
+        "id": "public-edge-687",
         "source": "dragonbone_tangle",
         "target": "road_329",
         "directed": true
       },
       {
-        "id": "public-edge-671",
+        "id": "public-edge-688",
         "source": "road_329",
         "target": "road_328",
         "directed": true
       },
       {
-        "id": "public-edge-672",
+        "id": "public-edge-689",
         "source": "road_328",
         "target": "baina_oasis",
         "directed": true
       },
       {
-        "id": "public-edge-673",
+        "id": "public-edge-690",
         "source": "sandworm_nest",
         "target": "road_332",
         "directed": true
       },
       {
-        "id": "public-edge-674",
+        "id": "public-edge-691",
         "source": "road_332",
         "target": "ancient_city_of_tristan",
         "directed": true
       },
       {
-        "id": "public-edge-675",
+        "id": "public-edge-692",
         "source": "ancient_city_of_tristan",
         "target": "road_333",
         "directed": true
       },
       {
-        "id": "public-edge-676",
+        "id": "public-edge-693",
         "source": "road_333",
         "target": "road_230",
         "directed": true
       },
       {
-        "id": "public-edge-677",
+        "id": "public-edge-694",
         "source": "tarvos_south_road",
         "target": "road_323",
         "directed": true
       },
       {
-        "id": "public-edge-678",
+        "id": "public-edge-695",
         "source": "road_323",
         "target": "road_324",
         "directed": true
       },
       {
-        "id": "public-edge-679",
+        "id": "public-edge-696",
         "source": "road_324",
         "target": "sand_pillars",
         "directed": true
       },
       {
-        "id": "public-edge-680",
+        "id": "public-edge-697",
         "source": "road_322",
         "target": "sand_pillars",
         "directed": true
       },
       {
-        "id": "public-edge-681",
+        "id": "public-edge-698",
         "source": "sand_pillars",
         "target": "road_327",
         "directed": true
       },
       {
-        "id": "public-edge-682",
+        "id": "public-edge-699",
         "source": "road_327",
         "target": "road_326",
         "directed": true
       },
       {
-        "id": "public-edge-683",
+        "id": "public-edge-700",
         "source": "tarvos_south_road",
         "target": "road_325",
         "directed": true
       },
       {
-        "id": "public-edge-684",
+        "id": "public-edge-701",
         "source": "road_325",
         "target": "road_326",
         "directed": true
       },
       {
-        "id": "public-edge-685",
+        "id": "public-edge-702",
         "source": "road_326",
         "target": "sandworm_nest",
         "directed": true
       },
       {
-        "id": "public-edge-686",
+        "id": "public-edge-703",
         "source": "road_318",
         "target": "road_321",
         "directed": true
       },
       {
-        "id": "public-edge-687",
+        "id": "public-edge-704",
         "source": "road_321",
         "target": "dragonbone_tangle",
         "directed": true
       },
       {
-        "id": "public-edge-688",
+        "id": "public-edge-705",
         "source": "sandflow_road",
         "target": "road_339",
         "directed": true
       },
       {
-        "id": "public-edge-689",
+        "id": "public-edge-706",
         "source": "road_339",
         "target": "road_340",
         "directed": true
       },
       {
-        "id": "public-edge-690",
+        "id": "public-edge-707",
         "source": "road_340",
         "target": "road_239",
         "directed": true
       },
       {
-        "id": "public-edge-691",
+        "id": "public-edge-708",
         "source": "road_339",
         "target": "road_341",
         "directed": true
       },
       {
-        "id": "public-edge-692",
+        "id": "public-edge-709",
         "source": "road_341",
         "target": "road_342",
         "directed": true
       },
       {
-        "id": "public-edge-693",
+        "id": "public-edge-710",
         "source": "road_342",
         "target": "sand_shadow_fort",
         "directed": true
       },
       {
-        "id": "public-edge-694",
+        "id": "public-edge-711",
         "source": "sand_shadow_fort",
         "target": "road_343",
         "directed": true
       },
       {
-        "id": "public-edge-695",
+        "id": "public-edge-712",
         "source": "road_343",
         "target": "road_344",
         "directed": true
       },
       {
-        "id": "public-edge-696",
+        "id": "public-edge-713",
         "source": "road_344",
         "target": "scorched_grass_dunes",
         "directed": true
       },
       {
-        "id": "public-edge-697",
+        "id": "public-edge-714",
         "source": "corpses_gutter",
         "target": "road_345",
         "directed": true
       },
       {
-        "id": "public-edge-698",
+        "id": "public-edge-715",
         "source": "road_345",
         "target": "road_341",
         "directed": true
       },
       {
-        "id": "public-edge-699",
+        "id": "public-edge-716",
         "source": "sandflow_road",
         "target": "road_334",
         "directed": true
       },
       {
-        "id": "public-edge-700",
+        "id": "public-edge-717",
         "source": "road_334",
         "target": "road_335",
         "directed": true
       },
       {
-        "id": "public-edge-701",
+        "id": "public-edge-718",
         "source": "road_335",
         "target": "aditi_s_cave",
         "directed": true
       },
       {
-        "id": "public-edge-702",
+        "id": "public-edge-719",
         "source": "aditi_s_cave",
         "target": "road_336",
         "directed": true
       },
       {
-        "id": "public-edge-703",
+        "id": "public-edge-720",
         "source": "road_336",
         "target": "road_337",
         "directed": true
       },
       {
-        "id": "public-edge-704",
+        "id": "public-edge-721",
         "source": "road_337",
         "target": "mintaka_rockway",
         "directed": true
       },
       {
-        "id": "public-edge-705",
+        "id": "public-edge-722",
         "source": "road_338",
         "target": "junction_022",
         "directed": true
       },
       {
-        "id": "public-edge-706",
+        "id": "public-edge-723",
         "source": "road_334",
         "target": "road_347",
         "directed": true
       },
       {
-        "id": "public-edge-707",
+        "id": "public-edge-724",
         "source": "road_347",
         "target": "road_348",
         "directed": true
       },
       {
-        "id": "public-edge-708",
+        "id": "public-edge-725",
         "source": "road_348",
         "target": "ge_tower_cemetary",
         "directed": true
       },
       {
-        "id": "public-edge-709",
+        "id": "public-edge-726",
         "source": "ge_tower_cemetary",
         "target": "road_338",
         "directed": true
       },
       {
-        "id": "public-edge-710",
+        "id": "public-edge-727",
         "source": "road_348",
         "target": "windless_waste",
         "directed": true
       },
       {
-        "id": "public-edge-711",
+        "id": "public-edge-728",
         "source": "sandflow_road",
         "target": "road_346",
         "directed": true
       },
       {
-        "id": "public-edge-712",
+        "id": "public-edge-729",
         "source": "road_346",
         "target": "corpses_gutter",
         "directed": true
       },
       {
-        "id": "public-edge-713",
+        "id": "public-edge-730",
         "source": "windless_waste",
         "target": "palace_of_sand",
         "directed": true
       },
       {
-        "id": "public-edge-714",
+        "id": "public-edge-731",
         "source": "windless_waste",
         "target": "road_349",
         "directed": true
       },
       {
-        "id": "public-edge-715",
+        "id": "public-edge-732",
         "source": "road_349",
         "target": "corpses_gutter",
         "directed": true
       },
       {
-        "id": "public-edge-716",
+        "id": "public-edge-733",
         "source": "palace_of_sand",
         "target": "road_351",
         "directed": true
       },
       {
-        "id": "public-edge-717",
+        "id": "public-edge-734",
         "source": "road_351",
         "target": "road_350",
         "directed": true
       },
       {
-        "id": "public-edge-718",
+        "id": "public-edge-735",
         "source": "road_350",
         "target": "road_344",
         "directed": true
       },
       {
-        "id": "public-edge-719",
+        "id": "public-edge-736",
         "source": "corpses_gutter",
         "target": "road_352",
         "directed": true
       },
       {
-        "id": "public-edge-720",
+        "id": "public-edge-737",
         "source": "road_352",
         "target": "road_350",
         "directed": true
       },
       {
-        "id": "public-edge-721",
+        "id": "public-edge-738",
         "source": "palace_of_sand",
         "target": "magellan",
         "directed": false
@@ -16671,6 +17615,10 @@
       "west_amalthea_posthouse"
     ]
   },
+  "exploration_frontier_location_ids": [
+    "road_228",
+    "luminaria_pass"
+  ],
   "inventory": {
     "aliases": {
       "glirmosa": "glimosa",

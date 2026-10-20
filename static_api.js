@@ -2,7 +2,7 @@
   'use strict';
 
   const nativeFetch = window.fetch.bind(window);
-  const runtimePromise = nativeFetch('./data/runtime.json?v=6fe717a').then(response => {
+  const runtimePromise = nativeFetch('./data/runtime.json?v=6404bc7').then(response => {
     if (!response.ok) throw new Error('Static planner data could not be loaded.');
     return response.json();
   });
@@ -31,9 +31,12 @@
     return compareArrays(left.shape, right.shape);
   }
 
-  function buildGraph(snapshot, unavailable) {
+  function buildGraph(snapshot, unavailable, discoveredLocationIds = [], allowExploration = true) {
     const blocked = new Set(unavailable || []);
     const nodes = new Map(snapshot.nodes.filter(node => !blocked.has(node.id)).map(node => [node.id, node]));
+    const discovered = new Set(discoveredLocationIds || []);
+    const undiscovered = new Set([...nodes.values()].filter(node => node.discovered === false && !discovered.has(node.id)).map(node => node.id));
+    if (!allowExploration) for (const id of undiscovered) nodes.delete(id);
     const adjacency = new Map([...nodes.keys()].map(id => [id, new Set()]));
     const directed = new Set();
     for (const edge of snapshot.edges) {
@@ -42,10 +45,10 @@
       if (edge.directed) directed.add(pairKey(edge.source, edge.target));
       else adjacency.get(edge.target).add(edge.source);
     }
-    return {nodes, adjacency, directed};
+    return {nodes, adjacency, directed, undiscovered};
   }
 
-  function turnOptions(start, graph, carriageLinks, enemies, activeMegaliths) {
+  function turnOptions(start, graph, carriageLinks, enemies, activeMegaliths, activeTemples) {
     const desertRoads = new Set([...graph.nodes.values()].filter(node => node.region === 'desert' && node.category === 'road').map(node => node.id));
     const interactable = new Set([...graph.nodes.values()].filter(node => ['resource', 'dungeon', 'feast', 'town', 'large_town'].includes(node.category)).map(node => node.id));
     const queue = [{node: start, path: [start]}], bestDepth = new Map([[start, 0]]), walking = [];
@@ -54,6 +57,7 @@
       if (depth) walking.push({movement_type: 'walk', path, ends_at: node, unused_movement: 3 - depth, turn_cost: 1});
       if ((depth && enemies.has(node)) || depth === 3) continue;
       for (const neighbour of sorted(graph.adjacency.get(node) || [])) {
+        if (graph.undiscovered.has(neighbour)) continue;
         if (graph.directed.has(pairKey(node, neighbour))) continue;
         const nextDepth = depth + 1;
         if ((bestDepth.get(neighbour) ?? (nextDepth + 1)) <= nextDepth) continue;
@@ -63,6 +67,7 @@
     }
     walking.sort((a, b) => b.path.length - a.path.length || a.ends_at.localeCompare(b.ends_at));
     const result = [...walking];
+    for (const neighbour of sorted([...(graph.adjacency.get(start) || [])].filter(id => graph.undiscovered.has(id)))) result.push({movement_type: 'walk', path: [start, neighbour], ends_at: neighbour, unused_movement: 0, turn_cost: 1});
     for (const roadNode of sorted(graph.adjacency.get(start) || [])) {
       if (!graph.directed.has(pairKey(start, roadNode))) continue;
       result.push({movement_type: 'walk', path: [start, roadNode], ends_at: roadNode, unused_movement: 0, turn_cost: 1});
@@ -85,10 +90,12 @@
         result.push({movement_type: 'warp', path: [start, destination], ends_at: destination, unused_movement: 0, turn_cost: 0});
       }
     }
+    if (activeTemples.has(start) && graph.nodes.has('dagsion')) result.push({movement_type: 'warp', path: [start, 'dagsion'], ends_at: 'dagsion', unused_movement: 0, turn_cost: 1});
+    if (start === 'dagsion') for (const destination of sorted(activeTemples)) result.push({movement_type: 'warp', path: [start, destination], ends_at: destination, unused_movement: 0, turn_cost: 1});
     return result;
   }
 
-  function shortestLeg(start, target, graph, carriageLinks, enemies, activeMegaliths) {
+  function shortestLeg(start, target, graph, carriageLinks, enemies, activeMegaliths, activeTemples) {
     if (start === target) return [];
     const queue = [{node: start, cost: {turns: 0, edges: 0, shape: []}}];
     const parents = new Map([[start, null]]), distances = new Map([[start, {turns: 0, edges: 0, shape: []}]]);
@@ -97,7 +104,7 @@
       const current = queue.shift(), known = distances.get(current.node);
       if (compareCosts(current.cost, known) !== 0) continue;
       if (current.node === target) break;
-      for (const step of turnOptions(current.node, graph, carriageLinks, enemies, activeMegaliths)) {
+      for (const step of turnOptions(current.node, graph, carriageLinks, enemies, activeMegaliths, activeTemples)) {
         const stepEdges = step.movement_type === 'walk' ? step.path.length - 1 : 0;
         const cost = {
           turns: current.cost.turns + step.turn_cost,
@@ -141,7 +148,7 @@
     const optionalIds = (request.stopovers || []).filter(stop => !stop.required).map(stop => stop.location_id);
     if (new Set(optionalIds).size !== optionalIds.length) throw new Error('An optional stopover may only be listed once.');
     validateDependencies(request, runtime);
-    const graph = buildGraph(runtime.map, request.unavailable_location_ids);
+    const graph = buildGraph(runtime.map, request.unavailable_location_ids, request.discovered_location_ids, true);
     const requested = new Set([request.start_location_id, request.destination_location_id, ...(request.stopovers || []).map(stop => stop.location_id)]);
     if ([...requested].some(id => !graph.nodes.has(id))) throw new Error('One or more selected locations are unavailable.');
     const repaired = new Set(request.repaired_location_ids || []), carriageLinks = {};
@@ -150,10 +157,11 @@
     }
     const enemies = new Set((request.enemy_location_ids || []).filter(id => graph.nodes.has(id)));
     const megaliths = request.allow_portals === false ? new Set() : new Set((request.active_megalith_location_ids || []).filter(id => graph.nodes.has(id)));
+    const temples = request.allow_portals === false ? new Set() : new Set((request.active_temple_location_ids || []).filter(id => graph.nodes.has(id)));
     const cache = new Map();
     const leg = (start, target) => {
       const cacheKey = `${start}\u0001${target}`;
-      if (!cache.has(cacheKey)) cache.set(cacheKey, shortestLeg(start, target, graph, carriageLinks, enemies, megaliths));
+      if (!cache.has(cacheKey)) cache.set(cacheKey, shortestLeg(start, target, graph, carriageLinks, enemies, megaliths, temples));
       return cache.get(cacheKey);
     };
     const legCost = (start, target) => leg(start, target).reduce((sum, step) => sum + step.turn_cost, 0);
@@ -169,8 +177,13 @@
           const minimumIndex = prerequisites.reduce((value, id) => Math.max(value, ids.indexOf(id)), 0);
           for (let index = 0; index < itinerary.length - 1; index++) {
             if (index < minimumIndex) continue;
-            const direct = legCost(itinerary[index].id, itinerary[index + 1].id);
-            const detour = legCost(itinerary[index].id, stop.location_id) + legCost(stop.location_id, itinerary[index + 1].id);
+            let direct, detour;
+            try {
+              direct = legCost(itinerary[index].id, itinerary[index + 1].id);
+              detour = legCost(itinerary[index].id, stop.location_id) + legCost(stop.location_id, itinerary[index + 1].id);
+            } catch {
+              continue;
+            }
             if (stop.max_detour_turns != null && detour - direct > stop.max_detour_turns) continue;
             const score = [-Number(stop.priority || 0), detour - direct, stop.location_id, index];
             if (!best || compareArrays(score, best.score) < 0) best = {score, stop, index};
@@ -192,8 +205,8 @@
     for (let index = 0; index < itinerary.length - 1; index++) {
       const target = itinerary[index + 1], steps = leg(itinerary[index].id, target.id);
       steps.forEach((step, stepIndex) => {
-        if (step.movement_type === 'warp') { warp_jumps.push({from_location: step.path[0], to_location: step.ends_at}); return; }
-        let reason = step.movement_type === 'carriage' ? 'carriage' : 'movement_limit';
+        if (step.movement_type === 'warp' && step.turn_cost === 0) { warp_jumps.push({from_location: step.path[0], to_location: step.ends_at}); return; }
+        let reason = ['carriage', 'warp'].includes(step.movement_type) ? step.movement_type : 'movement_limit';
         if (stepIndex === steps.length - 1) {
           if (index + 1 === itinerary.length - 1) reason = 'destination';
           else if (required.has(target.id)) reason = 'required_stopover';
@@ -211,7 +224,7 @@
   }
 
   function enemyPaths(request, runtime) {
-    const graph = buildGraph(runtime.map, request.unavailable_location_ids);
+    const graph = buildGraph(runtime.map, request.unavailable_location_ids, request.discovered_location_ids, false);
     if (![request.target_location_id, ...(request.enemy_location_ids || [])].every(id => graph.nodes.has(id))) throw new Error('One or more enemy-route locations are unavailable.');
     const paths = [];
     for (const start of request.enemy_location_ids || []) {
@@ -273,7 +286,7 @@
     if (!url.pathname.includes('/api/')) return nativeFetch(input, init);
     try {
       const runtime = await runtimePromise, body = init.body ? JSON.parse(init.body) : {};
-      if (url.pathname.endsWith('/api/map')) return jsonResponse(runtime.map);
+      if (url.pathname.endsWith('/api/map')) return jsonResponse({...runtime.map, exploration_frontier_location_ids: runtime.exploration_frontier_location_ids || []});
       if (url.pathname.includes('/api/act3/context/')) {
         const id = decodeURIComponent(url.pathname.split('/').pop());
         return runtime.contexts[id] ? jsonResponse(runtime.contexts[id]) : errorResponse('The selected Act III section is unavailable.', 404);
